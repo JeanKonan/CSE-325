@@ -1,0 +1,14 @@
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging.deps.json
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging.runtimeconfig.json
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging.dll
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging.pdb
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.AssemblyInfo.cs
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.dll
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/refint/DotNetDebugging.dll
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.pdb
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.genruntimeconfig.cache
+/Users/kjean/Documents/CSE-325/CSE-325/DotNetDebugging/obj/Debug/net10.0/ref/DotNetDebugging.dll
